@@ -1,0 +1,6 @@
+[submodule "Week 09_10/migrations-assignment"]
+	path = Week 09_10/migrations-assignment
+	url = git@github.com:ji-easv/migrations-assignment.git
+[submodule "Week 11/MongoDbExercise"]
+	path = Week 11/MongoDbExercise
+	url = git@github.com:mmEASV/MongoDbExercise.git
